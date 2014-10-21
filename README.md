@@ -89,7 +89,7 @@ re-enter the account address and password.
 ### Download
 
 The files are downloadable from GitHub:
-https://github.com/brandonusher/Apple-ID-AppleScript Feel free to fork
+https://github.com/ntoqiakt/Apple-ID-AppleScript Feel free to fork
 and improve.
 
 ### Acknowledgments
