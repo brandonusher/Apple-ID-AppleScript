@@ -1,14 +1,6 @@
 Batch Apple ID Creator
 ----------------------
 
-[![Stories in Backlog](https://badge.waffle.io/brandonusher/Apple-ID-AppleScript.svg?label=Backlog&title=Backlog)](http://waffle.io/brandonusher/Apple-ID-AppleScript)
-[![Stories in Ready](https://badge.waffle.io/brandonusher/apple-id-applescript.svg?label=Ready&title=Ready)](http://waffle.io/brandonusher/apple-id-applescript)
-[![Stories in Progress](https://badge.waffle.io/brandonusher/apple-id-applescript.svg?label=In%20Progress&title=In%20Progress)](http://waffle.io/brandonusher/apple-id-applescript)
-
-If possible, please donate as I spend my free time fixing and upkeeping this script.
-
-BTC: 12afnPSYfnbzV8wgu6zv69j9eMTtV2GktC
-
 ### Purpose & Features
 
 Deploying a great quantity of iOS devices means creating a great
@@ -24,7 +16,7 @@ script without actually creating the Apple ID.
     representative to request that your IP address is whitelisted for a
     short time.
 -   Being [AppleScript][], this runs only on Macs.
--   [iTunes 11.2.2][] is currently required. Future versions may break the
+-   [iTunes 12.0.1][] is currently required. Future versions may break the
     script.
 -   [UI Scripting][] allows us to script otherwise non-scriptbale
     interfaces. Turn this on in System Preferences \> Accessibility and
@@ -105,16 +97,19 @@ and improve.
 This script was originally created by Enterprise iOS user [Greg
 Moore][], who works for Hope Public Schools in Hope, Arkansas. [Aaron
 Freimark][] then updated the script to work with iTunes 10.6.1 and the
-multiple recovery questions. Discuss on [EnterpriseiOS.com][]. This
-script or derivatives must not be sold. If you make it better, please
-give back to the community that brought it to you.
+multiple recovery questions. Updated to work with iTunes 11.x by
+[Brandon Usher][].
+
+Discuss on [EnterpriseiOS.com][]. This script or derivatives must not 
+be sold. If you make it better, please give back to the community that 
+brought it to you.
 
 The base for this script was created by [Aaron Freimark][1]
 
-Updated version brought to you by [Brandon Usher][]
+Updated version brought to you by [ntoqiakt][]
 
   [AppleScript]: http://developer.apple.com/applescript/
-  [iTunes 11.2.2]: http://www.apple.com/itunes/
+  [iTunes 12.0.1]: http://www.apple.com/itunes/
   [UI Scripting]: http://www.mactech.com/articles/mactech/Vol.21/21.06/UserInterfaceScripting/index.html
   [strong password requirements]: http://support.apple.com/kb/TS1728
   [Greg Moore]: http://www.enterpriseios.com/users/Eight_Quarter_Bit
@@ -122,3 +117,4 @@ Updated version brought to you by [Brandon Usher][]
   [EnterpriseiOS.com]: http://www.enterpriseios.com/wiki/Batch_Apple_ID_Generator
   [1]: https://github.com/aaronfreimark/Apple-ID-AppleScript
   [Brandon Usher]: https://github.com/brandonusher
+  [ntoqiakt]: https://github.com/ntoqiakt
