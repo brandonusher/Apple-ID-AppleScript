@@ -1,11 +1,15 @@
+WARNING
+-------
+
+THIS REPO IS NO LONGER BEING KEPT UP WITH SINCE APPLE HAS DONE AWAY WITH THE NEED FOR AN APPLE ID FOR EVERY DEVICE.
+
+IF YOU WOULD LIKE TO CONTINUE THIS PROJECT, I WILL KEEP AN EYE ON IT AND TEST AND MERGE PULL REQUESTS.
+
+
 Batch Apple ID Creator
 ----------------------
 
 If possible, please donate as I spend my free time fixing and upkeeping this script.
-
-BTC: 12afnPSYfnbzV8wgu6zv69j9eMTtV2GktC
-
-[@brandonusher](https://github.com/brandonusher): <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=364T3HTGPQUHN"><img src="https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif" alt="[paypal]" /></a>
 
 ### Purpose & Features
 
